@@ -1,6 +1,6 @@
 # Hi! 
 
-![](https://komarev.com/ghpvc/?username=x2late2take&color=grey)
+![](https://komarev.com/ghpvc/?username=x2latte&color=grey)
 
 ## 🌐 Languages and Tools:
 <h3 align="left"/h3>
@@ -22,4 +22,4 @@
 
 ## 📚 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x2late2take&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/x2late2take/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x2latte&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/x2latte/github-readme-stats)
